@@ -1,0 +1,11 @@
+C:\Projects\SuperNewsService\SuperNewsService.NewsFacade.Implementation\bin\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Implementation.deps.json
+C:\Projects\SuperNewsService\SuperNewsService.NewsFacade.Implementation\bin\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Implementation.dll
+C:\Projects\SuperNewsService\SuperNewsService.NewsFacade.Implementation\obj\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Implementation.csprojResolveAssemblyReference.cache
+C:\Projects\SuperNewsService\SuperNewsService.NewsFacade.Implementation\obj\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Implementation.csproj.CoreCompileInputs.cache
+C:\Projects\SuperNewsService\SuperNewsService.NewsFacade.Implementation\obj\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Implementation.AssemblyInfoInputs.cache
+C:\Projects\SuperNewsService\SuperNewsService.NewsFacade.Implementation\obj\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Implementation.AssemblyInfo.cs
+C:\Projects\SuperNewsService\SuperNewsService.NewsFacade.Implementation\bin\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Implementation.pdb
+C:\Projects\SuperNewsService\SuperNewsService.NewsFacade.Implementation\obj\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Implementation.dll
+C:\Projects\SuperNewsService\SuperNewsService.NewsFacade.Implementation\obj\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Implementation.pdb
+C:\Projects\SuperNewsService\SuperNewsService.NewsFacade.Implementation\bin\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Contracts.dll
+C:\Projects\SuperNewsService\SuperNewsService.NewsFacade.Implementation\bin\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Contracts.pdb

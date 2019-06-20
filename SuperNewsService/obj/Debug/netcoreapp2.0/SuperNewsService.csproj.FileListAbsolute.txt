@@ -1,0 +1,15 @@
+C:\Projects\SuperNewsService\SuperNewsService\bin\Debug\netcoreapp2.0\SuperNewsService.deps.json
+C:\Projects\SuperNewsService\SuperNewsService\bin\Debug\netcoreapp2.0\SuperNewsService.runtimeconfig.json
+C:\Projects\SuperNewsService\SuperNewsService\bin\Debug\netcoreapp2.0\SuperNewsService.runtimeconfig.dev.json
+C:\Projects\SuperNewsService\SuperNewsService\bin\Debug\netcoreapp2.0\SuperNewsService.dll
+C:\Projects\SuperNewsService\SuperNewsService\bin\Debug\netcoreapp2.0\SuperNewsService.pdb
+C:\Projects\SuperNewsService\SuperNewsService\obj\Debug\netcoreapp2.0\SuperNewsService.csprojResolveAssemblyReference.cache
+C:\Projects\SuperNewsService\SuperNewsService\obj\Debug\netcoreapp2.0\SuperNewsService.csproj.CoreCompileInputs.cache
+C:\Projects\SuperNewsService\SuperNewsService\obj\Debug\netcoreapp2.0\SuperNewsService.AssemblyInfoInputs.cache
+C:\Projects\SuperNewsService\SuperNewsService\obj\Debug\netcoreapp2.0\SuperNewsService.AssemblyInfo.cs
+C:\Projects\SuperNewsService\SuperNewsService\obj\Debug\netcoreapp2.0\SuperNewsService.dll
+C:\Projects\SuperNewsService\SuperNewsService\obj\Debug\netcoreapp2.0\SuperNewsService.pdb
+C:\Projects\SuperNewsService\SuperNewsService\bin\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Contracts.dll
+C:\Projects\SuperNewsService\SuperNewsService\bin\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Implementation.dll
+C:\Projects\SuperNewsService\SuperNewsService\bin\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Contracts.pdb
+C:\Projects\SuperNewsService\SuperNewsService\bin\Debug\netcoreapp2.0\SuperNewsService.NewsFacade.Implementation.pdb
